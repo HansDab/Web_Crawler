@@ -1,0 +1,20 @@
+URL,HTMLPAGE TITLE,HTTP Status Code
+/,,200
+https://www.trustpilot.co.uk/review/www.tyre-shopper.co.uk,,200
+/,,200
+https://www.tyre-shopper.co.uk/about-us/,About Us,200
+https://www.tyre-shopper.co.uk/tyre_search/,Tyre Search,200
+https://www.tyre-shopper.co.uk/compare-prices/,Compare Prices,200
+https://www.tyre-shopper.co.uk/special_offers/,Special Offers,200
+https://www.tyre-shopper.co.uk/branches/,Fitting Centres,200
+https://www.tyre-shopper.co.uk/news/,News,200
+https://www.tyre-shopper.co.uk/contact-us/,Contact Us,200
+/cart,,200
+/tyres/,Tyres,200
+/tyre_pressures/,Tyre Pressure,200
+/tyre-information/,Tyre Info,200
+/faqs/,FAQ,200
+/cookies,Cookies,200
+/privacy-policy,Privacy Policy,200
+/terms_and_conditions,Terms & Conditions,200
+/site_map,Sitemap,200
